@@ -1,6 +1,6 @@
 # Convert Speech to Text in Minutes Using OpenAI's Whisper Model
 
-In this video tutorial, I guide you step-by-step on how to convert YouTube videos to MP3 files using Node.js. If you're looking to enhance your programming skills or need a simple way to fetch YouTube audio for your projects, this video is for you!
+Learn how to convert speech to text using OpenAI's Whisper model with Node.js in this hands-on tutorial. We cover everything from setting up your OpenAI account, securing API keys, to transcribing audio files.
 
 Clone this repository for example. Install dependencies:
 
